@@ -2,6 +2,7 @@ body {
   max-width: 1920px;
   margin: auto;
 }
+/*Ajout CSS au font-family*/
 * {
   font-family: "Inter", "arial", serif;
   font-style: normal;
@@ -102,6 +103,7 @@ body {
 .gallery .nav {
   justify-content: center;
 }
+/* Ajout CSS Nav link*/
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #000000;
@@ -131,6 +133,7 @@ body {
   object-fit: cover;
   padding: 0.5em;
 }
+/* Ajout CSS modal-dialog */
 .modal-dialog {
   height: 100vh;
   display: flex;
